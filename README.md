@@ -25,4 +25,4 @@ P.S. A map showing differences across states would help a ton :)
 2) use form control of industry to look for for different wages per industry by bar chart.
 3) also look into composition of employees for that industry by pie chart.
 4) look into last 4 year data to look for trend by employee composition vs wage.
-5) look into map data to check which state has more average wages or employees per 1000 capita by industry.
+5) look into map(365 version needed) data to check which state has more average wages or employees per 1000 capita by industry.
