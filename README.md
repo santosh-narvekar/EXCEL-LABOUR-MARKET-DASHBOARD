@@ -1,14 +1,16 @@
 # EXCEL-LABOUR-MARKET_DASHBOARD
 This exploratory dashboard helps students and human resources from us to explore the wages and the employee composition per industry,
 
-# Project Title & goal:
-Good afternoon,
-I just received the attached labor statistics data from 2017 to 2020.
-Just in time for our next round of high school visits!
-Can you please create a dashboard that seniors can use to explore
+# Project goal:
+the head of research has just received the attached labor statistics data from 
+2017 to 2020. Just in time for our next round of high school visits!
+So, we are creating a dashboard that seniors can use to explore
 wage and employment trends, and compare them across industries?
-Thanks!
-P.S. A map showing differences across states would help a ton :)
+And A map integration as requested showing differences in average wages and 
+employee compositionacross states.
+
+# Screenshot:
+![US Careers Dashboard](https://drive.google.com/uc?export=view&id=175PMudubOTnrmiYX2y8OVD5VDLMxDWDH)
 
 # Key Features:
 1) Preparing data for analysis
