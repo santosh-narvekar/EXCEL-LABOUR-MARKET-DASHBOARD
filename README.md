@@ -1,7 +1,7 @@
 # EXCEL LABOUR MARKET DASHBOARD
 This exploratory dashboard helps students and human resources from us to explore the wages and the employee composition per industry,
 
-# Project Need & goal:
+# Project Need & Goal:
 the head of research has just received the attached labor statistics data from 
 2017 to 2020. Just in time for our next round of high school visits!
 So, we are creating a dashboard that seniors can use to explore
@@ -13,14 +13,14 @@ employee compositionacross states.
 ![US Careers Dashboard](https://drive.google.com/uc?export=view&id=175PMudubOTnrmiYX2y8OVD5VDLMxDWDH)
 
 # Key Features:
-1) Preparing data for analysis
-2) map integration (excel 365)
-3) formula based dashboard
-4) story telling with data
-5) form controls
-6) advanced chart formatting
-7) Statistical and lookup formulas usage
-8) Easy to read data visualizaton
+1) Preparing Data for Analysis
+2) Map integration (excel 365)
+3) Formula Based Dashboard
+4) Story Telling With Data
+5) Form Controls
+6) Advanced Chart Formatting
+7) Statistical and Lookup Formulas usage
+8) Easy to read Data Visualizaton
 
 # How to Use:
 1) Download the excel file.
