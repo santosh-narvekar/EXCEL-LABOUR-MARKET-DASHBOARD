@@ -2,12 +2,12 @@
 This exploratory dashboard helps students and human resources from us to explore the wages and the employee composition per industry,
 
 # Project Need & Goal:
-the head of research has just received the attached labor statistics data from 
-2017 to 2020. Just in time for their next round of high school visits!
-So, we are creating a dashboard that seniors can use to explore
-wage and employment trends, and compare them across industries?
-And A map integration as requested showing differences in average wages and 
-employee compositionacross states.
+the head of research (Our Boss) at maven careers (a non-profit organization helping high school seniors find career
+paths), has just received the attached labor statistics data from 
+2017 to 2020. Just in time for their next round of high school visits! 
+So, Being a Research Analyst at maven careers, we are creating a dashboard that this seniors can use to explore
+wage and employment trends, and compare them across industries? And A map integration as requested showing differences 
+in average wages and employee composition across states.
 
 # Dashboard Screenshot:
 ![US Careers Dashboard](https://drive.google.com/uc?export=view&id=175PMudubOTnrmiYX2y8OVD5VDLMxDWDH)
