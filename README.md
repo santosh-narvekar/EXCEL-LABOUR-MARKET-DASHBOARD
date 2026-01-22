@@ -3,7 +3,7 @@ This exploratory dashboard helps students and human resources from us to explore
 
 # Project Need & Goal:
 the head of research has just received the attached labor statistics data from 
-2017 to 2020. Just in time for our next round of high school visits!
+2017 to 2020. Just in time for their next round of high school visits!
 So, we are creating a dashboard that seniors can use to explore
 wage and employment trends, and compare them across industries?
 And A map integration as requested showing differences in average wages and 
